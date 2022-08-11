@@ -1,0 +1,14 @@
+[
+  {
+    "topic": "A",
+    "name": "a",
+    "minimumLength": 10,
+    "maximumLength": 100
+  },
+  {
+    "topic": "B",
+    "name": "b",
+    "minimumLength": 0,
+    "maximumLength": 40
+  }
+]
